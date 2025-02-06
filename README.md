@@ -1,0 +1,1 @@
+This repository contains a simple Rust program that demonstrates an index out of bounds error. The program attempts to access an element at index 10 in a vector that only has 5 elements. The solution demonstrates how to handle this error using the `get` method and a match statement.
